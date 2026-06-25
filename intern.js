@@ -1,3 +1,3 @@
-console.log("Name: Angel");
-console.log("Age: 22");
-console.log("Place: Ernakulam");
+console.log("Name: Your Name");
+console.log("Age: Your Age");
+console.log("Place: Your Place");
