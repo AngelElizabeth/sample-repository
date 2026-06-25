@@ -1,3 +1,3 @@
 console.log("Name: Angel");
 console.log("Age: 22");
-console.log("Place: ernakulam");
+console.log("Place: Ernakulam");
